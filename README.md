@@ -32,6 +32,16 @@ Outside client work I build tools that automate data-heavy workflows, including 
   <a href="https://github.com/nyxashu25/auto-scrape-verify-buy"><img src="assets/card-domain-tool.svg" alt="ExpiredDomains Authority Sorter: Chrome extension for domain research" width="49%"></a>
 </p>
 
+## Tools
+
+Small, focused utilities I built and keep tested. Each has its own README and CI.
+
+| Tool | What it does |
+|---|---|
+| [**color-picker-extension**](https://github.com/nyxashu25/color-picker-extension) | Chrome side-panel eyedropper: copy HEX, RGB, HSL, HSV or CMYK and check WCAG contrast |
+| [**notepad-extension**](https://github.com/nyxashu25/notepad-extension) | Multi-note notepad in the Chrome toolbar with search, pinning, autosave and export |
+| [**excel-merger**](https://github.com/nyxashu25/excel-merger) | Python CLI and library that merges Excel and CSV files, aligning columns by header name |
+
 ## Selected client work
 
 A sample of production WordPress builds:
