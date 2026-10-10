@@ -38,9 +38,13 @@ Small, focused utilities I built and keep tested. Each has its own README and CI
 
 | Tool | What it does |
 |---|---|
+| [**wp-security-hardening**](https://github.com/nyxashu25/wp-security-hardening) | WordPress plugin: security headers, login attempt limiting, username-discovery blocking and version hiding. PHP, 57 tests |
+| [**wp-lead-form**](https://github.com/nyxashu25/wp-lead-form) | WordPress contact form with no CAPTCHA: honeypot, signed time token and rate limiting. Saves leads privately, emails you, exports CSV. PHP, 98 tests |
+| [**seo-audit**](https://github.com/nyxashu25/seo-audit) | Python CLI that crawls a site and reports technical SEO problems: titles, canonicals, broken links, redirect chains, security headers |
+| [**redirect-mapper**](https://github.com/nyxashu25/redirect-mapper) | Python CLI that checks a 301 redirect map for loops, chains and conflicts, then exports Apache, nginx or Netlify rules |
+| [**excel-merger**](https://github.com/nyxashu25/excel-merger) | Python CLI and library that merges Excel and CSV files, aligning columns by header name |
 | [**color-picker-extension**](https://github.com/nyxashu25/color-picker-extension) | Chrome side-panel eyedropper: copy HEX, RGB, HSL, HSV or CMYK and check WCAG contrast |
 | [**notepad-extension**](https://github.com/nyxashu25/notepad-extension) | Multi-note notepad in the Chrome toolbar with search, pinning, autosave and export |
-| [**excel-merger**](https://github.com/nyxashu25/excel-merger) | Python CLI and library that merges Excel and CSV files, aligning columns by header name |
 
 ## Selected client work
 
